@@ -1,0 +1,4 @@
+Library/
+Assembly-CSharp.csproj
+*.sln
+*.vsconfig
