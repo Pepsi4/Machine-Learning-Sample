@@ -1,0 +1,65 @@
+{
+    "Food": {
+        "checkpoints": [
+            {
+                "steps": 142266,
+                "file_path": "results\\FoodAgent7\\Food\\Food-142266.onnx",
+                "reward": 0.0,
+                "creation_time": 1680102889.8699892,
+                "auxillary_file_paths": [
+                    "results\\FoodAgent7\\Food\\Food-142266.pt"
+                ]
+            },
+            {
+                "steps": 499949,
+                "file_path": "results\\FoodAgent7\\Food\\Food-499949.onnx",
+                "reward": null,
+                "creation_time": 1680105530.888064,
+                "auxillary_file_paths": [
+                    "results\\FoodAgent7\\Food\\Food-499949.pt"
+                ]
+            },
+            {
+                "steps": 999964,
+                "file_path": "results\\FoodAgent7\\Food\\Food-999964.onnx",
+                "reward": 0.8250000029802322,
+                "creation_time": 1680108754.6606371,
+                "auxillary_file_paths": [
+                    "results\\FoodAgent7\\Food\\Food-999964.pt"
+                ]
+            },
+            {
+                "steps": 1080627,
+                "file_path": "results\\FoodAgent7\\Food\\Food-1080627.onnx",
+                "reward": null,
+                "creation_time": 1680109345.740543,
+                "auxillary_file_paths": [
+                    "results\\FoodAgent7\\Food\\Food-1080627.pt"
+                ]
+            },
+            {
+                "steps": 1088956,
+                "file_path": "results\\FoodAgent7\\Food\\Food-1088956.onnx",
+                "reward": null,
+                "creation_time": 1680115073.9522257,
+                "auxillary_file_paths": [
+                    "results\\FoodAgent7\\Food\\Food-1088956.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1088956,
+            "file_path": "results\\FoodAgent7\\Food.onnx",
+            "reward": null,
+            "creation_time": 1680115073.9522257,
+            "auxillary_file_paths": [
+                "results\\FoodAgent7\\Food\\Food-1088956.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}

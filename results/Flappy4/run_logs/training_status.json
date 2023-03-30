@@ -1,0 +1,65 @@
+{
+    "Flappy": {
+        "checkpoints": [
+            {
+                "steps": 349863,
+                "file_path": "results\\Flappy4\\Flappy\\Flappy-349863.onnx",
+                "reward": -1.0,
+                "creation_time": 1680177624.8125582,
+                "auxillary_file_paths": [
+                    "results\\Flappy4\\Flappy\\Flappy-349863.pt"
+                ]
+            },
+            {
+                "steps": 499997,
+                "file_path": "results\\Flappy4\\Flappy\\Flappy-499997.onnx",
+                "reward": null,
+                "creation_time": 1680179520.79952,
+                "auxillary_file_paths": [
+                    "results\\Flappy4\\Flappy\\Flappy-499997.pt"
+                ]
+            },
+            {
+                "steps": 692774,
+                "file_path": "results\\Flappy4\\Flappy\\Flappy-692774.onnx",
+                "reward": -1.0,
+                "creation_time": 1680182175.038022,
+                "auxillary_file_paths": [
+                    "results\\Flappy4\\Flappy\\Flappy-692774.pt"
+                ]
+            },
+            {
+                "steps": 791665,
+                "file_path": "results\\Flappy4\\Flappy\\Flappy-791665.onnx",
+                "reward": null,
+                "creation_time": 1680185295.708291,
+                "auxillary_file_paths": [
+                    "results\\Flappy4\\Flappy\\Flappy-791665.pt"
+                ]
+            },
+            {
+                "steps": 826564,
+                "file_path": "results\\Flappy4\\Flappy\\Flappy-826564.onnx",
+                "reward": null,
+                "creation_time": 1680185813.0460505,
+                "auxillary_file_paths": [
+                    "results\\Flappy4\\Flappy\\Flappy-826564.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 826564,
+            "file_path": "results\\Flappy4\\Flappy.onnx",
+            "reward": null,
+            "creation_time": 1680185813.0460505,
+            "auxillary_file_paths": [
+                "results\\Flappy4\\Flappy\\Flappy-826564.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}

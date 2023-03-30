@@ -1,0 +1,38 @@
+{
+    "Flappy": {
+        "checkpoints": [
+            {
+                "steps": 106528,
+                "file_path": "results\\Flappy6\\Flappy\\Flappy-106528.onnx",
+                "reward": -1.0,
+                "creation_time": 1680193096.0662944,
+                "auxillary_file_paths": [
+                    "results\\Flappy6\\Flappy\\Flappy-106528.pt"
+                ]
+            },
+            {
+                "steps": 140381,
+                "file_path": "results\\Flappy6\\Flappy\\Flappy-140381.onnx",
+                "reward": null,
+                "creation_time": 1680193674.7674477,
+                "auxillary_file_paths": [
+                    "results\\Flappy6\\Flappy\\Flappy-140381.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 140381,
+            "file_path": "results\\Flappy6\\Flappy.onnx",
+            "reward": null,
+            "creation_time": 1680193674.7674477,
+            "auxillary_file_paths": [
+                "results\\Flappy6\\Flappy\\Flappy-140381.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}
